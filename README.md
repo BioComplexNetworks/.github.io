@@ -1,6 +1,8 @@
 # .github.io
 Retreat web page
 
+<center>
+
 # Welcome to the info page for the 3rd *"Summer Retreat on Bioinformatics and Complex Networks"* 2024 !
 https://evalencial.github.io
 
@@ -97,4 +99,4 @@ PhD Flor Citlally Alcantar-Aguirre
 
 # Feel free to contact us via mail if you have any inquiry: **bioinfoandcomplexnetworks@gmail.com**
 
-
+</center>
